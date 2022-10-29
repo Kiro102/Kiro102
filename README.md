@@ -1,5 +1,5 @@
 ### Hi there , I'm Nahuel Barreto 👋
-I'm a Front-End Web Developer from Buenos Aires, Argentina.
+I'm a Spanish Front-End Web Developer from Buenos Aires, Argentina.
 
 <!--
 **Kiro102/Kiro102** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
