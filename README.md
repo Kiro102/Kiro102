@@ -28,4 +28,3 @@
 # 📊  GitHub Streak!
 ![Kiro102's GitHub stats](https://github-readme-stats.vercel.app/api?username=NahuelBarreto04&show_icons=true&theme=radical)
 
----
