@@ -1,8 +1,8 @@
 # Hi there , I'm Nahuel Barreto 👋
-##I'm a Spanish Front-End Web Developer from Buenos Aires, Argentina.
+## I'm a Spanish Front-End Web Developer from Buenos Aires, Argentina.
 ----
 
-##Sobre mi:
+## Sobre mi:
 - 🌟 Actualmente haciendo crecer mis habilidades en el Front End
 - 🤓 Me apasiona la tecnologia y aprender cosas nuevas sobre el área que me encanta
 - 🤗 Me encanta el Front y el desarrollo de Aplicaciones mobiles 🤗
