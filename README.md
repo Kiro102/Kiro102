@@ -3,7 +3,7 @@
 ----
 
 ## Sobre mi:
-- 🌟 Actualmente haciendo crecer mis habilidades en el Front End
+- 🌟 Constantemente puliendo mis habilidades en el Front End
 - 🤓 Me apasiona la tecnologia y aprender cosas nuevas sobre el área que me encanta
 - 🤗 Me encanta el Front y el desarrollo de Aplicaciones mobiles 🤗
 - 🤔 Me pregunto cómo seria el mundo sin música y tecnologia.
